@@ -45,21 +45,21 @@ Core Business Question:
 
 💡 Key Insights
 
-1  Male customers generate significantly higher total revenue than female customers (~$157K vs ~$76K).  
-2  Young Adults lead revenue contribution across all age groups.  
-3  Free Shipping and Standard Shipping are the most preferred shipping types.  
-4  Subscribed customers generate nearly 2x the total revenue of non-subscribers, despite being fewer in count (~1K vs ~2.9K).  
-5  43% of purchases were made with a discount applied.  
-6  Fall is the highest-revenue season; Summer the lowest.  
-7  PayPal, Credit Card, and Cash are the top 3 payment methods.  
-8  Top-rated products (avg. rating 4): Gloves, Sandals, Boots, Hat, Skirt.  
-9  Most purchased items: Blouse, Jewelry, Pants, Shirt, Dress.  
-10  79.9% of customers are Loyal (>10 previous purchases); only 2.13% are New.  
-11  Avg. rating is consistent across customer types (~3.7–3.8), suggesting satisfaction is stable regardless of loyalty.  
+1.   Male customers generate significantly higher total revenue than female customers (~$157K vs ~$76K).  
+2.   Young Adults lead revenue contribution across all age groups.  
+3.   Free Shipping and Standard Shipping are the most preferred shipping types.  
+4.   Subscribed customers generate nearly 2x the total revenue of non-subscribers, despite being fewer in count (~1K vs ~2.9K).  
+5.   43% of purchases were made with a discount applied.  
+6.   Fall is the highest-revenue season; Summer the lowest.  
+7.   PayPal, Credit Card, and Cash are the top 3 payment methods.  
+8.   Top-rated products (avg. rating 4): Gloves, Sandals, Boots, Hat, Skirt.  
+9.   Most purchased items: Blouse, Jewelry, Pants, Shirt, Dress.  
+10.  79.9% of customers are Loyal (>10 previous purchases); only 2.13% are New.  
+11.  Avg. rating is consistent across customer types (~3.7–3.8), suggesting satisfaction is stable regardless of loyalty.  
 
 
 # Dashboard / Output
-The Power BI dashboard is organized into 3 pages:
+The Power BI dashboard is organized into 3 pages:  
 Page 1 — Revenue & Subscriber Overview  
 KPI Cards: Total Customers (3,900) · Total Revenue ($233.08K) · Avg Purchase ($59.76) · Avg Rating (3.75)
 Visuals: Revenue by Gender · Revenue by Age Group · Revenue by Shipping Type · Subscriber vs Non-Subscriber (Avg Spend, Total Revenue, Customer Count)
