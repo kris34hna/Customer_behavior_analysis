@@ -60,17 +60,14 @@ Core Business Question:
 
 # Dashboard / Output
 The Power BI dashboard is organized into 3 pages:
-Page 1 — Revenue & Subscriber Overview
-Show Image
+Page 1 — Revenue & Subscriber Overview  
 KPI Cards: Total Customers (3,900) · Total Revenue ($233.08K) · Avg Purchase ($59.76) · Avg Rating (3.75)
 Visuals: Revenue by Gender · Revenue by Age Group · Revenue by Shipping Type · Subscriber vs Non-Subscriber (Avg Spend, Total Revenue, Customer Count)
 
-Page 2 — Buying Patterns & Trends
-Show Image
+Page 2 — Buying Patterns & Trends  
 Visuals: Discount Applied % (Donut) · Customers by Payment Method · Total Revenue by Season · Top 5 Products by Avg Rating · Top 3 Purchased Products by Category
 
-Page 3 — Customer Loyalty Segmentation
-Show Image
+Page 3 — Customer Loyalty Segmentation  
 Visuals: Customer Type Distribution (Loyal / Returning / New) · Top 5 Products by Avg Rating (filterable by Category) · Avg Rating by Customer Type
 
 # Results & Conclusion
