@@ -36,26 +36,26 @@ Core Business Question:
 
 # Methods
 
-1.Data Extraction (SQL) — Wrote 10 analytical queries covering revenue by gender, discount behavior, product ratings, shipping comparison, subscriber vs. non-subscriber spend, customer segmentation (New / Returning / Loyal), top products by category, repeat buyer behavior, and age-group revenue contribution.
+1. Data Extraction (SQL) — Wrote 10 analytical queries covering revenue by gender, discount behavior, product ratings, shipping comparison, subscriber vs. non-subscriber spend, customer segmentation (New / Returning / Loyal), top products by category, repeat buyer behavior, and age-group revenue contribution.
 
-2.Exploratory Data Analysis (Python) — Cleaned the dataset, handled missing values, created the Age_Group derived column, and produced visualizations for distributions, correlations, and trends using Pandas, Matplotlib, and Seaborn.
+2. Exploratory Data Analysis (Python) — Cleaned the dataset, handled missing values, created the Age_Group derived column, and produced visualizations for distributions, correlations, and trends using Pandas, Matplotlib, and Seaborn.
 
-3.Dashboard (Power BI) — Built a 3-page interactive dashboard with KPI cards, bar charts, donut charts, and category filters to make insights accessible to business stakeholders.
+3. Dashboard (Power BI) — Built a 3-page interactive dashboard with KPI cards, bar charts, donut charts, and category filters to make insights accessible to business stakeholders.
 
 
 💡 Key Insights
 
-1 Male customers generate significantly higher total revenue than female customers (~$157K vs ~$76K).  
-2 Young Adults lead revenue contribution across all age groups.  
-3 Free Shipping and Standard Shipping are the most preferred shipping types.  
-4 Subscribed customers generate nearly 2x the total revenue of non-subscribers, despite being fewer in count (~1K vs ~2.9K).  
-5 43% of purchases were made with a discount applied.  
-6 Fall is the highest-revenue season; Summer the lowest.  
-7 PayPal, Credit Card, and Cash are the top 3 payment methods.  
-8 Top-rated products (avg. rating 4): Gloves, Sandals, Boots, Hat, Skirt.  
-9 Most purchased items: Blouse, Jewelry, Pants, Shirt, Dress.  
-10 79.9% of customers are Loyal (>10 previous purchases); only 2.13% are New.  
-11 Avg. rating is consistent across customer types (~3.7–3.8), suggesting satisfaction is stable regardless of loyalty.  
+1  Male customers generate significantly higher total revenue than female customers (~$157K vs ~$76K).  
+2  Young Adults lead revenue contribution across all age groups.  
+3  Free Shipping and Standard Shipping are the most preferred shipping types.  
+4  Subscribed customers generate nearly 2x the total revenue of non-subscribers, despite being fewer in count (~1K vs ~2.9K).  
+5  43% of purchases were made with a discount applied.  
+6  Fall is the highest-revenue season; Summer the lowest.  
+7  PayPal, Credit Card, and Cash are the top 3 payment methods.  
+8  Top-rated products (avg. rating 4): Gloves, Sandals, Boots, Hat, Skirt.  
+9  Most purchased items: Blouse, Jewelry, Pants, Shirt, Dress.  
+10  79.9% of customers are Loyal (>10 previous purchases); only 2.13% are New.  
+11  Avg. rating is consistent across customer types (~3.7–3.8), suggesting satisfaction is stable regardless of loyalty.  
 
 
 # Dashboard / Output
