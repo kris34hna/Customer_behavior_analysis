@@ -44,6 +44,7 @@ Dashboard (Power BI) — Built a 3-page interactive dashboard with KPI cards, ba
 💡 Key Insights
 
 1 Male customers generate significantly higher total revenue than female customers (~$157K vs ~$76K).
+
 2 Young Adults lead revenue contribution across all age groups.
 3 Free Shipping and Standard Shipping are the most preferred shipping types.
 4 Subscribed customers generate nearly 2x the total revenue of non-subscribers, despite being fewer in count (~1K vs ~2.9K).
