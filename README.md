@@ -81,4 +81,4 @@ Focusing inventory and marketing on high-rated, frequently purchased items like 
 
 # Author & Contact
 KRISHNA
-LinkedIn :- https://www.linkedin.com/in/krishna-krishna-26a106231/ 
+LinkedIn :- www.linkedin.com/in/krishna-prajapati-26a106231/ 
