@@ -80,5 +80,12 @@ Running promotions in Fall and Spring when spending peaks
 Focusing inventory and marketing on high-rated, frequently purchased items like Blouses, Jewelry, and Sandals
 
 # Author & Contact
-KRISHNA
-LinkedIn :- www.linkedin.com/in/krishna-prajapati-26a106231/ 
+
+| | |
+|--|--|
+|**Name** | KRISHNA |
+|**LinkedIn** | www.linkedin.com/in/krishna-prajapati-26a106231 |
+|**GitHub** | https://github.com/ |
+
+
+⭐ **If you found this project helpful, consider giving it a star!**
